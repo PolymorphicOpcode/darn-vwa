@@ -1,13 +1,13 @@
 # DAMN VULNERABLE WEB APPLICATION
 
-Damn Vulnerable Web Application (DVWA), son derece zafiyetli bir PHP/MySQL web uygulamasıdır. Temel amacı; güvenlik uzmanlarına, yeteneklerini ve araçlarını test etmeleri konusunda yasal bir ortam sunmak, web geliştiricilerinin web uygulamalarının güvenliğini sağlama süreçlerini daha iyi anlamalarına yardımcı olmak, öğrencilere ve eğitmenlere web uygulamalarının güvenliğini öğrenme/öğretme konusunda kontrollü bir sınıf ortamı sunmaktır.
+Darn Vulnerable Web Application (DVWA), son derece zafiyetli bir PHP/MySQL web uygulamasıdır. Temel amacı; güvenlik uzmanlarına, yeteneklerini ve araçlarını test etmeleri konusunda yasal bir ortam sunmak, web geliştiricilerinin web uygulamalarının güvenliğini sağlama süreçlerini daha iyi anlamalarına yardımcı olmak, öğrencilere ve eğitmenlere web uygulamalarının güvenliğini öğrenme/öğretme konusunda kontrollü bir sınıf ortamı sunmaktır.
 
 DVWA, **en yaygın web zafiyetlerinden bazılarının** basit bir arayüz üzerinden **farklı zorluk seviyelerinde denenmesini** hedefler. Bu uygulamada, **dokümante edilmiş ve edilmemiş** zafiyetler olduğunu hatırlatmakta fayda var. Mümkün mertebe fazla problemi deneyin ve keşfedin!
 - - -
 
 ## UYARI!
 
-Damn Vulnerable Web Application epey zafiyetlidir! **Internet üzerinden erişilebilen bir sunucuya veya barındırma hizmeti sağlayıcınızın public_html dizinine yüklemeyin.** Bu durum, sunucunuzu tehlikeye atar. [VirtualBox](https://www.virtualbox.org/) veya [VMware](https://www.vmware.com/) gibi bir ortamda, sanal makinede, NAT ağı modunda kullanmanız önerilir. Sanal makine içinde web sunucusu ve veri tabanı için [XAMPP](https://www.apachefriends.org/en/xampp.html) indirip kurabilirsiniz.
+Darn Vulnerable Web Application epey zafiyetlidir! **Internet üzerinden erişilebilen bir sunucuya veya barındırma hizmeti sağlayıcınızın public_html dizinine yüklemeyin.** Bu durum, sunucunuzu tehlikeye atar. [VirtualBox](https://www.virtualbox.org/) veya [VMware](https://www.vmware.com/) gibi bir ortamda, sanal makinede, NAT ağı modunda kullanmanız önerilir. Sanal makine içinde web sunucusu ve veri tabanı için [XAMPP](https://www.apachefriends.org/en/xampp.html) indirip kurabilirsiniz.
 
 ### Sorumluluk Reddi
 
@@ -17,17 +17,17 @@ Herhangi bir kişinin bu uygulamayı (DVWA) nasıl kullandığı konusunda sorum
 
 ## Lisans
 
-Bu dosya, Damn Vulnerable Web Application'ın (DVWA) bir parçasıdır.
+Bu dosya, Darn Vulnerable Web Application'ın (DVWA) bir parçasıdır.
 
-Damn Vulnerable Web Application (DVWA) bir özgür yazılımdır. Yazılımı; Özgür Yazılım Vakfı
+Darn Vulnerable Web Application (DVWA) bir özgür yazılımdır. Yazılımı; Özgür Yazılım Vakfı
 tarafından yayınlanan GNU Genel Kamu Lisansı'nın 3. versiyonu ya da tercihinize göre daha yeni
 bir versiyonunda yer alan koşullar altında yeniden dağıtabilir ve/veya değiştirebilirsiniz.
 
-Damn Vulnerable Web Application (DVWA), faydalı olması umuduyla, ancak HERHANGİ BİR GARANTİ OLMADAN,
+Darn Vulnerable Web Application (DVWA), faydalı olması umuduyla, ancak HERHANGİ BİR GARANTİ OLMADAN,
 SATILABİLİRLİK veya BELİRLİ BİR AMACA UYGUNLUK garantisi bile ima edilmeden dağıtılmıştır.
 Detaylı bilgi için GNU Genel Kamu Lisansı'nı inceleyiniz.
 
-Damn Vulnerable Web Application (DVWA) ile birlikte, GNU Genel Kamu Lisansı'nın da bir kopyasını
+Darn Vulnerable Web Application (DVWA) ile birlikte, GNU Genel Kamu Lisansı'nın da bir kopyasını
 edinmiş olmalısınız. Durum böyle değilse, <https://www.gnu.org/licenses/> sayfasını inceleyiniz.
 
 - - -
@@ -61,7 +61,7 @@ ya da [ZIP olarak indirebilirsiniz](https://github.com/digininja/DVWA/archive/ma
 
 ### Kurulum Videoları
 
-- [Damn Vulnerable Web Application'ın (DVWA) Windows 10'da kurulumu](https://www.youtube.com/watch?v=cak2lQvBRAo) [12:39 dakika]
+- [Darn Vulnerable Web Application'ın (DVWA) Windows 10'da kurulumu](https://www.youtube.com/watch?v=cak2lQvBRAo) [12:39 dakika]
 
 ### Windows + XAMPP
 
